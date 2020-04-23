@@ -2,7 +2,7 @@
 <!--
 theme name:     TFT
 version:        1.0
-author:         Anthony
+author:         M00DY
 license:        creative commons CC-BY-NC-SA
 credit:         controller artwork originally from Carbon theme
 -->
@@ -55,7 +55,7 @@ credit:         controller artwork originally from Carbon theme
       </image>
       <textlist name="gamelist">
          <pos>0.05 0.225</pos>
-         <size>0.9 0.725</size>
+         <size>2.0 0.725</size>
          <selectorColor>000000ff</selectorColor>
          <selectedColor>bba358</selectedColor>
          <primaryColor>eaeaea</primaryColor>
