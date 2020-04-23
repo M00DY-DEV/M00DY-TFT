@@ -51,11 +51,11 @@ credit:         controller artwork originally from Carbon theme
       <image name="logo">
          <origin>.5 0</origin>
          <pos>0.5 0.075</pos>
-         <maxSize>0.5625 0.075</maxSize>
+         <maxSize>0.9 0.075</maxSize>
       </image>
       <textlist name="gamelist">
          <pos>0.05 0.225</pos>
-         <size>2.0 0.725</size>
+         <size>0.9 0.725</size>
          <selectorColor>000000ff</selectorColor>
          <selectedColor>bba358</selectedColor>
          <primaryColor>eaeaea</primaryColor>
